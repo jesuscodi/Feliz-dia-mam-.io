@@ -11,9 +11,14 @@ body {
 }
 
 .imagen-madre {
-  max-width: 300px;
+  width: 100%;
+  max-width: 250px; /* puedes cambiar 250px a lo que prefieras */
+  height: auto;
+  margin: auto;
+  display: block;
   border: 5px solid #fff;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+
 }
 
 .carta {
